@@ -1573,3 +1573,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2026.11.26-13.30.35:664][393]LogContentValidation: Display: Validating World /Game/Geometry/Track01.Track01
 [2026.11.26-13.30.44:484][627]LogEditorViewport: Clicking on Actor (LMB): Emitter (PS_Goop_Steam)
 [2026.11.26-13.31.23:777][703]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2026.11.27-15.31.15:023][704]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2026.11.27-15.35.52:007][704]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected.
